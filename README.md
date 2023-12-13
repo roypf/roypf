@@ -25,6 +25,6 @@ I'm actively expanding my knowledge in:
 
 ## Let's Connect
 
-- Twitter: [![](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)]([https://twitter.com/your_twitter_handle](https://twitter.com/TikhonovAleksa4))
+- Twitter: [<div><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="20" height="20"/>&nbsp;</div>]([https://twitter.com/your_twitter_handle](https://twitter.com/TikhonovAleksa4))
 
 Feel free to explore my repositories and provide feedback. Let's learn and grow together! 🚀
