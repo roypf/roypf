@@ -4,8 +4,16 @@
 
 Hello! I'm a beginner in the field of web development, currently focusing on Python, Django, Flask, HTML, CSS, and related technologies. I'm eager to learn and contribute to exciting projects.
 
-## Skills
-
+## 🧰: Skills
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+</div>
 - **Languages:** Python, HTML, CSS
 - **Frameworks:** Django, Flask
 - **Technologies:** Git, GitHub
