@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**roypf/roypf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm a beginner in the field of web development, currently focusing on Python, Django, Flask, HTML, CSS, and related technologies. I'm eager to learn and contribute to exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python, HTML, CSS
+- **Frameworks:** Django, Flask
+- **Technologies:** Git, GitHub
+
+## Current Learning Goals
+
+I'm actively expanding my knowledge in:
+
+- Building robust web applications with Django and Flask.
+- Enhancing front-end skills with HTML and CSS.
+- Exploring best practices in web development.
+
+## Let's Connect
+
+- Twitter: [@your_twitter_handle]([https://twitter.com/your_twitter_handle](https://twitter.com/TikhonovAleksa4))
+
+Feel free to explore my repositories and provide feedback. Let's learn and grow together! 🚀
