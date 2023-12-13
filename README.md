@@ -20,6 +20,6 @@ I'm actively expanding my knowledge in:
 
 ## Let's Connect
 
-- Twitter: [@your_twitter_handle]([https://twitter.com/your_twitter_handle](https://twitter.com/TikhonovAleksa4))
+- Twitter: [![](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)]([https://twitter.com/your_twitter_handle](https://twitter.com/TikhonovAleksa4))
 
 Feel free to explore my repositories and provide feedback. Let's learn and grow together! 🚀
